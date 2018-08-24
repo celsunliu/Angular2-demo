@@ -1,4 +1,6 @@
-me": "angular2-quickstart",
+{
+"name": "angular2-quickstart",
+
   "version": "1.0.0",
   "scripts": {
     "start": "npm run lite",
